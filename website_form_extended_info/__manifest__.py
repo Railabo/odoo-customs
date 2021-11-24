@@ -1,9 +1,10 @@
 {
-    "name": "Video setting for VOIP - email",
+    "name": "Form editor website markup",
     "summary": """
-        Video settings for voip - email.
+        This module injects website name and website url into form email notifications.
+        In case of multiple websites you can easly recongise which website this email came from.
         """,
-    "author": "Krys.R",
+    "author": "Krys.Raj",
     "category": "Website",
     "license": "LGPL-3",
     "version": "15.0.1.0.1",

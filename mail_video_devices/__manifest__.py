@@ -8,11 +8,11 @@
     "category": "Discuss",
     "license": "LGPL-3",
     "version": "15.0.1.0.1",
-    "images": ["mail_video_devices/static/description/images/cover.png",
-               "mail_video_devices/static/description/images/demo.gif",
-               "mail_video_devices/static/description/images/paypal-me.png",
-               "mail_video_devices/static/description/images/paypal-me.png",
-               "mail_video_devices/static/description/images/cover_screenshot.png"],
+    "images": ["static/description/images/cover.png",
+               "static/description/images/demo.gif",
+               "static/description/images/paypal-me.png",
+               "static/description/images/paypal-me.png",
+               "static/description/images/cover_screenshot.png"],
     # any module necessary for this one to work correctly
     "depends": ["mail"],
     'assets': {

@@ -8,7 +8,7 @@
     "category": "Discuss",
     "license": "LGPL-3",
     "version": "15.0.1.0.1",
-    "images": ["images/cover.png"],
+    "images": ["mail_video_devices/static/src/description/images/cover.png"],
     # any module necessary for this one to work correctly
     "depends": ["mail"],
     'assets': {

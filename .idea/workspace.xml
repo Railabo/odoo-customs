@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b98b4ffe-ba71-48ad-b9ad-eaab1f1e84f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/website_form_extended_info/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website_form_extended_info/__manifest__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website_form_extended_info/controllers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website_form_extended_info/controllers/controllers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website_form_extended_info/static/description/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail_video_devices/controllers/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail_video_devices/controllers/controllers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail_video_devices/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637746375900</updated>
-      <workItem from="1637746377764" duration="15179000" />
+      <workItem from="1637746377764" duration="15930000" />
     </task>
     <servers />
   </component>

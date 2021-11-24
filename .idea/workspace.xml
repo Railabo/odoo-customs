@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b98b4ffe-ba71-48ad-b9ad-eaab1f1e84f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/website_form_extended_info/static/description/images/cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website_form_extended_info/static/description/images/cover_screenshot.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail_video_devices/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail_video_devices/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/models/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website_form_extended_info/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/website_form_extended_info/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website_form_extended_info/static/description/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/website_form_extended_info/static/description/icon.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +39,10 @@
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/mail_video_devices/static/description/images" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/website_form_extended_info/static/description" />
+      <recent name="$PROJECT_DIR$/website_form_extended_info/static/description/images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -44,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637746375900</updated>
       <workItem from="1637746377764" duration="15930000" />
+      <workItem from="1637793341870" duration="1023000" />
     </task>
     <servers />
   </component>
@@ -60,6 +70,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

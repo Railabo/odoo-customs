@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b98b4ffe-ba71-48ad-b9ad-eaab1f1e84f1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/website_form_extended_info/static/description/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/website_form_extended_info/static/description/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/README.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/__manifest__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/static/description/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/static/description/images/cover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/static/description/images/cover_screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/static/description/images/demo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/static/description/images/paypal-me.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/static/description/images/screenshot1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/static/description/images/screenshot_screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/static/description/images/tipeo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/static/description/images/webcam-icon-19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/static/description/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/static/src/components/rtc_configuration_menu/rtc_configuration_menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/static/src/components/rtc_configuration_menu/rtc_configuration_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/static/src/models/rtc/rtc_video.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/static/src/models/rtc_configuration_menu/rtc_configuration_menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/static/src/models/user_setting/user_setting_video.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website_form_extended_info/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/website_form_extended_info/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website_form_extended_info/controllers/controllers.py" beforeDir="false" afterPath="$PROJECT_DIR$/website_form_extended_info/controllers/controllers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website_form_extended_info/static/description/icon.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,6 +32,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="15.0" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="21MMCYCIUQkTKi49sK0ZOJPmU9L" />
@@ -26,10 +53,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/website_form_extended_info/static/description" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/website_form_extended_info/static/description/images" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/website_form_extended_info/static/description/images" />
       <recent name="$PROJECT_DIR$/website_form_extended_info/static/description" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/mail_video_devices/static/description/images" />
@@ -48,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637746375900</updated>
       <workItem from="1637746377764" duration="15930000" />
-      <workItem from="1637793341870" duration="2026000" />
+      <workItem from="1637793341870" duration="3645000" />
     </task>
     <servers />
   </component>

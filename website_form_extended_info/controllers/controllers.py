@@ -1,6 +1,6 @@
 from odoo import http, SUPERUSER_ID, _
 from odoo.addons.base.models.ir_qweb_fields import nl2br
-from odoo.addons.website.controllers.form import WebsiteForm
+from odoo.addons.website_form.controllers.main import WebsiteForm
 import logging
 
 _logger = logging.getLogger(__name__)

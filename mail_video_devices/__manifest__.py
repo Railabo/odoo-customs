@@ -3,7 +3,7 @@
     "summary": """
         Video settings for voip - email.
         """,
-    "author": "Krys.R from Railabo.com",
+    "author": "Krys.R",
     "website": "https://youtu.be/9BBLMqFRBJQ",
     "category": "Discuss",
     "license": "LGPL-3",

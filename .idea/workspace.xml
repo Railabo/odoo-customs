@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b98b4ffe-ba71-48ad-b9ad-eaab1f1e84f1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail_video_devices/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mail_video_devices/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail_video_devices/static/description/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail_video_devices/static/description/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +59,23 @@
       <workItem from="1638312817734" duration="4000" />
       <workItem from="1659120906333" duration="4000" />
       <workItem from="1659126069778" duration="8000" />
-      <workItem from="1664409585228" duration="315000" />
+      <workItem from="1664409585228" duration="807000" />
     </task>
+    <task id="LOCAL-00001" summary="Envy updates - phase 1.0.1.32">
+      <created>1664410124627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664410124627</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Bugfix regarding the &quot;cannot import name 'models' from partially initialized module&quot; error for some clients - phase 1.0.1.33">
+      <created>1664410210897</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664410210897</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,7 +86,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="15.0" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -79,5 +106,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Envy updates - phase 1.0.1.32" />
+    <MESSAGE value="Bugfix regarding the &quot;cannot import name 'models' from partially initialized module&quot; error for some clients - phase 1.0.1.33" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bugfix regarding the &quot;cannot import name 'models' from partially initialized module&quot; error for some clients - phase 1.0.1.33" />
   </component>
 </project>

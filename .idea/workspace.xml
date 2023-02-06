@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b98b4ffe-ba71-48ad-b9ad-eaab1f1e84f1" name="Changes" comment="">
+    <list default="true" id="b98b4ffe-ba71-48ad-b9ad-eaab1f1e84f1" name="Changes" comment="Updating Odoo page description description - phase 1.0.1.34">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail_video_devices/static/description/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail_video_devices/static/description/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website_form_extended_info/static/description/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/website_form_extended_info/static/description/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +24,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/website_form_extended_info/static/description" />
@@ -59,7 +60,8 @@
       <workItem from="1638312817734" duration="4000" />
       <workItem from="1659120906333" duration="4000" />
       <workItem from="1659126069778" duration="8000" />
-      <workItem from="1664409585228" duration="807000" />
+      <workItem from="1664409585228" duration="1331000" />
+      <workItem from="1675683175573" duration="158000" />
     </task>
     <task id="LOCAL-00001" summary="Envy updates - phase 1.0.1.32">
       <created>1664410124627</created>
@@ -75,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664410210897</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updating Odoo page description description - phase 1.0.1.34">
+      <created>1664410448226</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664410448226</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +117,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Envy updates - phase 1.0.1.32" />
     <MESSAGE value="Bugfix regarding the &quot;cannot import name 'models' from partially initialized module&quot; error for some clients - phase 1.0.1.33" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bugfix regarding the &quot;cannot import name 'models' from partially initialized module&quot; error for some clients - phase 1.0.1.33" />
+    <MESSAGE value="Updating Odoo page description description - phase 1.0.1.34" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating Odoo page description description - phase 1.0.1.34" />
   </component>
 </project>
